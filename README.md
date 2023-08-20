@@ -1,1 +1,1 @@
-Hosted link: profile-search-app.vercel.app
+Hosted link: https://profile-search-app.vercel.app/
